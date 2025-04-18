@@ -1,0 +1,14 @@
+C:\Users\tensh\OneDrive\바탕 화면\Team SP\C#\Dun\Dun\obj\Debug\net8.0\Dun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tensh\OneDrive\바탕 화면\Team SP\C#\Dun\Dun\obj\Debug\net8.0\Dun.AssemblyInfoInputs.cache
+C:\Users\tensh\OneDrive\바탕 화면\Team SP\C#\Dun\Dun\obj\Debug\net8.0\Dun.AssemblyInfo.cs
+C:\Users\tensh\OneDrive\바탕 화면\Team SP\C#\Dun\Dun\obj\Debug\net8.0\Dun.csproj.CoreCompileInputs.cache
+C:\Users\tensh\OneDrive\바탕 화면\Team SP\C#\Dun\Dun\bin\Debug\net8.0\Dun.exe
+C:\Users\tensh\OneDrive\바탕 화면\Team SP\C#\Dun\Dun\bin\Debug\net8.0\Dun.deps.json
+C:\Users\tensh\OneDrive\바탕 화면\Team SP\C#\Dun\Dun\bin\Debug\net8.0\Dun.runtimeconfig.json
+C:\Users\tensh\OneDrive\바탕 화면\Team SP\C#\Dun\Dun\bin\Debug\net8.0\Dun.dll
+C:\Users\tensh\OneDrive\바탕 화면\Team SP\C#\Dun\Dun\bin\Debug\net8.0\Dun.pdb
+C:\Users\tensh\OneDrive\바탕 화면\Team SP\C#\Dun\Dun\obj\Debug\net8.0\Dun.dll
+C:\Users\tensh\OneDrive\바탕 화면\Team SP\C#\Dun\Dun\obj\Debug\net8.0\refint\Dun.dll
+C:\Users\tensh\OneDrive\바탕 화면\Team SP\C#\Dun\Dun\obj\Debug\net8.0\Dun.pdb
+C:\Users\tensh\OneDrive\바탕 화면\Team SP\C#\Dun\Dun\obj\Debug\net8.0\Dun.genruntimeconfig.cache
+C:\Users\tensh\OneDrive\바탕 화면\Team SP\C#\Dun\Dun\obj\Debug\net8.0\ref\Dun.dll
